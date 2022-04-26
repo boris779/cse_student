@@ -8,8 +8,7 @@ import java.io.File;
 
 public class HelloCse {
 
-    public static void main(String[] args) throws InterruptedException {
-        System.out.println("Hello CSE");
-    }
-
+  public static void main(String[] args) throws InterruptedException {
+    System.out.println("Hello CSE");
+  }
 }
