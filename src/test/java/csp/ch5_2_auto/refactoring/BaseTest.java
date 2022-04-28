@@ -1,4 +1,4 @@
-package ch5_2_auto.refactoring;
+package csp.ch5_2_auto.refactoring;
 
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;

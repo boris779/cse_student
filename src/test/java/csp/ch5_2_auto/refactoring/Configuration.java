@@ -1,4 +1,4 @@
-package ch5_2_auto.refactoring;
+package csp.ch5_2_auto.refactoring;
 
 import java.io.File;
 import org.apache.logging.log4j.LogManager;
