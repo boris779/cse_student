@@ -1,4 +1,4 @@
-package ch5_1_auto.end2end;
+package csp.ch5_1_auto.end2end;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertTrue;
